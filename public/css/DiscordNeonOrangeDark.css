@@ -3,9 +3,9 @@
 
 /* --== Define some general variables! ==-- */
 :root {
-  --rgb-highlight: 255, 125, 0;
+  --rgb-highlight: 255, 125, 0; /* The main highlight color */
+  --rgb-background: 10, 10, 10; /* The main background color */
   --highlight: rgb(var(--rgb-highlight));
-  --background: black;
   --close-button: var(--dnd-color) !important;
   --online-color: #39ff14;
   --afk-color: #FFFF33;
