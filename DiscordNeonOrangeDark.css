@@ -3,10 +3,10 @@
 
 /* --== Define some general variables! ==-- */
 :root {
-  --rgb-highlight: 255, 125, 0; /* The main highlight color */
-  --rgb-background: 10, 10, 10; /* The main background color */
+  --rgb-highlight: 255, 125, 0;
+  --rgb-background: 2, 2, 2;
   --highlight: rgb(var(--rgb-highlight));
-  --close-button: var(--dnd-color) !important;
+  --close-button: rgb(var(--rgb-highlight));
   --online-color: #39ff14;
   --afk-color: #FFFF33;
   --dnd-color: #FF0000;
