@@ -6,7 +6,8 @@
   --rgb-highlight: 255, 125, 0;
   --rgb-background: 1, 1, 1;
   --highlight: rgb(var(--rgb-highlight));
-  --close-button: rgb(var(--rgb-highlight));
+  --background: rgb(var(--rgb-background));
+  --close-button: rgb(var(--rgb-highlight)) !important;;
   --online-color: #39ff14;
   --afk-color: #FFFF33;
   --dnd-color: #FF0000;
