@@ -3,6 +3,8 @@
 
 /* --== Define some general variables! ==-- */
 :root {
+  --font-primary: "Comfortaa";
+  --font-code: "Source Code Pro";
   --rgb-highlight: 255, 125, 0;
   --rgb-background: 20, 20, 20;
   --rgb-background-secondary: 40, 40, 40;
