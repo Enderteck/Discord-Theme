@@ -4,9 +4,11 @@
 /* --== Define some general variables! ==-- */
 :root {
   --rgb-highlight: 255, 125, 0;
-  --rgb-background: 15, 15, 15;
+  --rgb-background: 20, 20, 20;
+  --rgb-background-secondary: 40, 40, 40;
   --highlight: rgb(var(--rgb-highlight));
   --background: var(--rgb-background);
+  --background-secondary: var(--rgb-background-secondary);
   --close-button: rgb(var(--rgb-highlight)) !important;
   --online-color: #39ff14;
   --afk-color: #FFFF33;
@@ -34,8 +36,8 @@
   --activity-card-background: var(--background);
   --background-primary: var(--background);
   --background-mobile-primary: var(--background);
-  --background-secondary: var(--background);
-  --background-mobile-secondary: var(--background);
+  --background-secondary: var(--background-secondary);
+  --background-mobile-secondary: var(--background-secondary);
   --background-secondary-alt: var(--background);
   --background-tertiary: var(--background);
   --background-accent: var(--background);
